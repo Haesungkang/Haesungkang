@@ -51,13 +51,13 @@ I'm a Front-End Engineer from South Korea, currently, I just finished SSAFY(Sams
 </p>
 
 <a href=”https://github.com/Haesungkang">
- <img align=”center” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=light&hide_langs_below=1" />
+ <img align=”center” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=haesungkang&theme=light&hide_langs_below=1" />
 </a>
 
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=haesungkang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
