@@ -5,6 +5,7 @@ I'm a Front-End Engineer from South Korea. I recently finished SSAFY(Samsung Sof
 </p>
 
 <h3> Latest work & Interest</h3>
+<p>
 I have project experience using Python, Unity, Javascript, vuejs languages with the first class in SSAFY. Recently I am interested in learning React, Unreal Engine. Also, I'm studying computer science and algorithms since 2020. Always looking forward to collaborate on open source project, so ask me about anything I am happy to help !
 📝[Portpolio]()
 </p>
@@ -40,11 +41,11 @@ I have project experience using Python, Unity, Javascript, vuejs languages with 
 </p>
 <br>
 <h3 align="center"> Social 📩 </h3>
-<div align="center">
+<p align="center">
     [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaesungkang&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=github.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
     [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kangs940909@gmail.com)](mailto:kangs940909@gmail.com)
     [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/haesungkang/)
- </div>
+ </p>
 
 <br>
 
