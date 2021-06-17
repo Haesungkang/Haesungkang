@@ -57,7 +57,7 @@ I'm a Front-End Engineer from South Korea, currently, I just finished SSAFY(Sams
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=haesungkang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Haesungkang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
